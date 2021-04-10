@@ -1,0 +1,12 @@
+body { background-image: url("background.jpg"); background-size: cover; background-repeat: no-repeat;;}
+.container {width: auto; height: auto; background-color: rgba(0,0,0,0.5); border-radius: 15px; padding-top: 20px; padding-bottom: 100px;}
+.logo {width: 20%; height: auto ; margin-top: 4%; margin-left: auto; margin-right: auto; display: block;}
+.motto {color: lime; text-align: center; font-size: 30px; font-family: sans-serif;display: block;}
+.menu { background-color: lime; width: 70%; margin: 0 auto;padding: 10px;}
+.buttons {width: auto;margin: 0 auto; text-align: center;}
+.Utenti {width: 70%;  padding: 20px;margin: 0 auto;}
+.Scooter {color: white; font-size: 30px; font-family: sans-serif;}
+.street {color: white; font-size: 12px; font-family: sans-serif; }
+.charge1 {background-color: orange; width: 40%; padding: 10px; margin-top: 10px; border-radius: 15px;}
+.charge2 {background-color: lime; width: 70%; padding: 10px; margin-top: 10px; border-radius: 15px}
+.charge3 {background-color: red; width: 20%; padding: 10px; margin-top: 10px; border-radius: 15px}
